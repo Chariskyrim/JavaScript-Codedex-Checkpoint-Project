@@ -12,5 +12,4 @@ for (let year = 2000; year <= 3000; year++) {
     }
 }
 
-// Optional message after loop completes
 console.log("Leap year check complete. 🌟");
